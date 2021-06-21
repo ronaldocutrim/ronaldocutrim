@@ -1,4 +1,6 @@
-### Hi, Very welcome to my repositories, feel free to study, contribute or contact me 🤓
+Hi, Very welcome to my repositories 🤓
+
+feel free to study, contribute or contact me 
 
 My name is Ronaldo Cutrim, I'm better known as Cutrim, but you can use whatever you prefer.
 
