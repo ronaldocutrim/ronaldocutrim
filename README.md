@@ -8,7 +8,7 @@ My name is Ronaldo Cutrim, I'm better known as Cutrim, but you can use whatever 
 
 🌐 I'm Frontend Developer.
 
-![[link email](https://www.linkedin.com/in/ronaldo-cutrim-217a881b7/)](https://img.shields.io/badge/Linkedin-3344DD?style=for-the-badge&logo=Linkedin&logoColor=white)
-![[link email](mailto:ronaldocutrim@gamil.com)](https://img.shields.io/badge/Gmail-3344DD?style=for-the-badge&logo=gmail&logoColor=white)
+[![link linkedin](https://img.shields.io/badge/Linkedin-3344DD?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-cutrim-217a881b7/)
+[![link email](https://img.shields.io/badge/Gmail-3344DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldocutrim@gamil.com)
 
 >💡 *Don't believe in labels, Giving up is never an option, be unlimited!.*
