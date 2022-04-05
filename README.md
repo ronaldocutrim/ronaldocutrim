@@ -4,7 +4,6 @@
 </div>
 <br />
 
----
 🇧🇷 Maranhão - Brazil.
 
 🌐 Front-end Developer at @pedidopago.
