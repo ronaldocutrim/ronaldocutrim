@@ -12,5 +12,5 @@
 
 🤓 Front-end Developer at [@pedidopago](https://github.com/pedidopago) <br>
 
-Builds and talking about Testing, Clean Archicture and Design of interfaces
+Builds and talking Frontend Web Development, Testing, Clean Archicture and Design of interfaces
 
