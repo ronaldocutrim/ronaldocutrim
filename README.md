@@ -1,8 +1,5 @@
 <br />
 <div align="center">
-  <div style="width:200px">
-    <img src="./emoji.gif">
-  </div>
   <img src="./profile.svg" >
 </div>
 <br />
