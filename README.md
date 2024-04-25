@@ -10,7 +10,7 @@
 
 🇧🇷 MA - Brazil
 
-🖥 Frontend Developer at [@pedidopago](https://github.com/pedidopago) <br>
+🖥 Frontend Developer
 
 
 
