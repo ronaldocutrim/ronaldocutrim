@@ -10,7 +10,7 @@
 
 🇧🇷 SC - Brazil
 
-🖥 Frontend Developer
+🖥 Software Developer
 
 
 
