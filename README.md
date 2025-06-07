@@ -8,7 +8,7 @@
 [![link email](https://img.shields.io/badge/ronaldocutrim@gmail.com-15634C?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:ronaldocutrim@gmail.com)
 [![link site](https://img.shields.io/badge/Personal%20Site-15634C?style=flat-square&logo=Google-Chrome&logoColor=white)](ronaldocutrim.com)
 
-🇧🇷 MA - Brazil
+🇧🇷 SC - Brazil
 
 🖥 Frontend Developer
 
